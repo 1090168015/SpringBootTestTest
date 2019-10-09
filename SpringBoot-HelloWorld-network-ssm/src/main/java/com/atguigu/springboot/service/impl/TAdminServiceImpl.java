@@ -19,5 +19,6 @@ public class TAdminServiceImpl implements TAdminService {
 		// TODO Auto-generated method stub
 		return adminMapper.selectAdmins();
 	}
+	public void test1(){}
 
 }
